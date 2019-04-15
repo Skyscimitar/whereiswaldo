@@ -1,2 +1,5 @@
 Data/
 Images/
+.ipynb*
+venv
+.DS_Store
