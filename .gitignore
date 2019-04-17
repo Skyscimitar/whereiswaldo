@@ -3,3 +3,5 @@ Images/
 .ipynb*
 venv
 .DS_Store
+.ipynb_checkpoints
+wally.h5
